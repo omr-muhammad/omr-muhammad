@@ -8,12 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Web%20Developer;Always%20Learning%20New%20Tools&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Web%20Developer;Always%20Learning%20New%20Tools&font=Roboto%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Junior Front-End Developer
+- 🏢 I'm a Junior MERN Stack Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to front-end development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJs, ExpressJs, or anything related to MERN Stack development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee.
 
 
