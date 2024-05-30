@@ -30,3 +30,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+ ![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=Redux)
+  ![React-Router.js](https://img.shields.io/badge/-React_Router-05122A?style=plastic&logo=react-router)
+  ![React-Query.js](https://img.shields.io/badge/-React_Query-05122A?style=plastic&logo=react-query)
+  ![Styled-Components.js](https://img.shields.io/badge/-Styled_Components-05122A?style=plastic&logo=styled-components)
+  ![React-Hook-Form.js](https://img.shields.io/badge/-React_Hook_Form-05122A?style=plastic&logo=react-hook-form)
+  ![Recharts.js](https://img.shields.io/badge/-Recharts-05122A?style=plastic&logo=recharts)
+  ![Supabase.js](https://img.shields.io/badge/-Supabase-05122A?style=plastic&logo=supabase)
