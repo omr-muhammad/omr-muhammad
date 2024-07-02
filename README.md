@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Front-End Stack Developer
 - 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJs, ExpressJs, or anything related to MERN Stack development.
+- 💬 Ask me about my experience with HTML, CSS, Sass, JavaScript, ReactJS, NextJs, TailwindCSS, or anything related to Front-End development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee.
 
 
