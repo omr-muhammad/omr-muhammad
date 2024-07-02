@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Web%20Developer;Always%20Learning%20New%20Tools&font=Roboto%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Junior MERN Stack Developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Front-End Stack Developer
+- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, NodeJs, ExpressJs, or anything related to MERN Stack development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee.
 
