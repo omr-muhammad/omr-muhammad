@@ -11,10 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Web%20Developer;Always%20Learning%20New%20Tools&font=Roboto%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front-End Stack Developer
+- 🏢 I'm a Desktop Developer
 - 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML, CSS, Sass, JavaScript, ReactJS, NextJs, TailwindCSS, or anything related to Front-End development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee.
+- 💬 Ask me about my experience with C++, C#, WPF, WinForms, Desktop application architecture, or anything related to building modern desktop apps. I'm also comfortable with frontend tools such as HTML, CSS, Sass, JavaScript, and ReactJS, as needed.
+- ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start with a cup of coffee.
 
 
 ### Connect with Me :
