@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=43&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=180&lines=Full+Stack+Desktop+Developer;%26;C%2B%2B+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=43&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=500&height=180&lines=Full+Stack+Desktop+Developer;%26;C%2B%2B+enthusiast" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Desktop Developer
