@@ -9,12 +9,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=43&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=500&height=180&lines=Full+Stack+Desktop+Developer;%26;C%2B%2B+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=43&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=500&height=180&lines=Back+End+Developer;%26;C%2B%2B+enthusiast" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Desktop Developer
+- 🏢 I'm a NodeJs BackEnd Developer
 - 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C#, WPF, Desktop application architecture, or anything related to building modern desktop apps. I'm also comfortable with frontend tools such as HTML, CSS, Sass, JavaScript, and ReactJS, as needed.
+- 💬 Ask me about my experience with C++, HTML, CSS, JavaScript, TypeScript, NodeJs, RDBMSs, MAUI!!, or anything related to building modern apps. I'm also comfortable with frontend tools such as HTML, CSS, Sass, and ReactJS, as needed.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start with a cup of coffee.
 
 
@@ -31,10 +31,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
- ![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=Redux)
-  ![React-Router.js](https://img.shields.io/badge/-React_Router-05122A?style=plastic&logo=react-router)
-  ![React-Query.js](https://img.shields.io/badge/-React_Query-05122A?style=plastic&logo=react-query)
-  ![Styled-Components.js](https://img.shields.io/badge/-Styled_Components-05122A?style=plastic&logo=styled-components)
-  ![React-Hook-Form.js](https://img.shields.io/badge/-React_Hook_Form-05122A?style=plastic&logo=react-hook-form)
-  ![Recharts.js](https://img.shields.io/badge/-Recharts-05122A?style=plastic&logo=recharts)
-  ![Supabase.js](https://img.shields.io/badge/-Supabase-05122A?style=plastic&logo=supabase)
+![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=Redux)
+![React-Router.js](https://img.shields.io/badge/-React_Router-05122A?style=plastic&logo=react-router)
+![React-Query.js](https://img.shields.io/badge/-React_Query-05122A?style=plastic&logo=react-query)
+![Static Badge](https://img.shields.io/badge/-sqlite?style=plastic&logo=sqlite&logoColor=%23044a64&logoSize=auto&label=SQLite&labelColor=white&color=%23044a64)
+
+
