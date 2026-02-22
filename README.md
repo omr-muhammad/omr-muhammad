@@ -37,17 +37,14 @@ complex, efficient ideas into reality.
 
 ## 🚀 Projects
 
-| Project                                                                                                               | Description                                                                                                                 | Links |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Database Engine with TCP Server                                                                                       | Built a custom, ACID-compliant Key-Value database from scratch using B+Tree indexing O(log n) and a binary TCP protocol.    |
-| Engineered for scale with WAL-based crash recovery and an async I/O server handling 5,000+ concurrent connections.    | [GitHub](https://github.com/omr-muhammad/tcp-database-engine)                                                               |
-| Chat App (Terminal)                                                                                                   | Architected a real-time messaging server featuring custom packet framing, non-blocking I/O, and concurrent client handling. |
-| Implemented robust resource protection through strict memory buffering and proactive connection lifecycle management. | [GitHub](https://github.com/omr-muhammad/tcp-server)                                                                        |
+| Project | Description | Links |
+|---|---|---|
+| Database Engine with TCP Server | Built a custom, ACID-compliant Key-Value database from scratch using B+Tree indexing O(log n) and a binary TCP protocol, Engineered for scale with WAL-based crash recovery and an async I/O server handling 5,000+ concurrent connections. | [Live](Soon) / [GitHub](https://github.com/omr-muhammad/tcp-database-engine) |
+| Chat App (Terminal) | Architected a real-time messaging server featuring custom packet framing, non-blocking I/O, and concurrent client handling, Implemented robust resource protection through strict memory buffering and proactive connection lifecycle management. | [Live](Soon) / [GitHub](https://github.com/omr-muhammad/tcp-server) |
 
 ### Database Engine with TCP Server
 
-**Technologies Used:** JavaScript, NodeJs, DataStructure, Algorithms, Memory
-Management
+**Technologies Used:** JavaScript, NodeJs, DataStructure, Algorithms, Memory Management
 
 ### Chat App (Terminal)
 
